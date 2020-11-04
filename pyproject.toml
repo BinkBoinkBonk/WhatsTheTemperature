@@ -9,6 +9,7 @@ python = "^3.8"
 fast-soup = "^1.1.0"
 bs4 = "^0.0.1"
 uszipcode = "^0.2.4"
+colorama = "^0.4.4"
 
 [tool.poetry.dev-dependencies]
 
